@@ -27,3 +27,6 @@ Người chấm: Bùi Tiến Dũng<br />
 Điểm: 8<br />
 Nhận xét: Bạn có tham gia đóng góp vào hoạt động thực hiện bài tập nhóm, hoàn thành đúng chỉ tiêu khóa học CNPM và đã có ý thức tự học các khóa học.
 
+Người chấm :Lê Văn Duy
+Điểm: 9
+Nhận xét: Bạn có tham gia đóng góp vào hoạt động thực hiện bài tập nhóm, hoàn thành đúng chỉ tiêu khóa học CNPM và đã có ý thức tự học các khóa học.
